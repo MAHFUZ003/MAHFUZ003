@@ -101,7 +101,7 @@
 
 <h3 align="left">⚡ Recent Highlights:</h3>
 
-- 🚀 300+ problems solved on LeetCode  
+
 - 🧠 Codeforces rating: 1544  
 - 📊 Participated in ICPC Regionals twice  
 - 💻 CGPA: 3.75 in Computer Science & Engineering  
